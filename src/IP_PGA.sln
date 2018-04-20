@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_PGA", "IP_PGA\IP_PGA.csproj", "{7B55F208-10D7-4057-B28B-676AAA6F5227}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Debug|x64.ActiveCfg = Debug|x64
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Debug|x64.Build.0 = Debug|x64
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Debug|x86.ActiveCfg = Debug|x86
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Debug|x86.Build.0 = Debug|x86
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Release|x64.ActiveCfg = Release|x64
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Release|x64.Build.0 = Release|x64
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Release|x86.ActiveCfg = Debug|x86
+		{7B55F208-10D7-4057-B28B-676AAA6F5227}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C86715-A0C9-4AFB-94F8-30F1DA704D20}
+	EndGlobalSection
+EndGlobal
